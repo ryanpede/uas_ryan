@@ -1,76 +1,20 @@
 {
-    "datas": [
+    "Chuck 70": [
         {
             "id": 1,
-            "name": "cerulean",
-            "year": 2000,
-            "color": "#98B2D1",
-            "pantone_value": "15-4020"
-        },
-        {
-            "id": 2,
-            "name": "fuchsia rose",
-            "year": 2001,
-            "color": "#C74375",
-            "pantone_value": "17-2031"
-        },
-        {
-            "id": 3,
-            "name": "true red",
-            "year": 2002,
-            "color": "#BF1932",
-            "pantone_value": "19-1664"
-        },
-        {
-            "id": 4,
-            "name": "aqua sky",
-            "year": 2003,
-            "color": "#7BC4C4",
-            "pantone_value": "14-4811"
-        },
-        {
-            "id": 5,
-            "name": "tigerlily",
-            "year": 2004,
-            "color": "#E2583E",
-            "pantone_value": "17-1456"
+            "name": "Chuck 70's High Black",
+            "product_code": "C70HI-001",
+            "color": "Black",
+            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
         }
     ],
-    "datas2": [
+    "Women": [
         {
-            "id": 1,
-            "name": "cerulean",
-            "year": 2000,
-            "color": "#98B2D1",
-            "pantone_value": "15-4020"
-        },
-        {
-            "id": 2,
-            "name": "fuchsia rose",
-            "year": 2001,
-            "color": "#C74375",
-            "pantone_value": "17-2031"
-        },
-        {
-            "id": 3,
-            "name": "true red",
-            "year": 2002,
-            "color": "#BF1932",
-            "pantone_value": "19-1664"
-        },
-        {
-            "id": 4,
-            "name": "aqua sky",
-            "year": 2003,
-            "color": "#7BC4C4",
-            "pantone_value": "14-4811"
-        },
-        {
-            "id": 5,
-            "name": "tigerlily",
-            "year": 2004,
-            "color": "#E2583E",
-            "pantone_value": "17-1456"
+           "id": 1,
+            "name": "Converse X TURBODRK Chuck 70 Laceless",
+            "product_code": "C70HI-002",
+            "color": "Pink",
+            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
         }
     ]
     
