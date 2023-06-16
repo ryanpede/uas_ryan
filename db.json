@@ -38,17 +38,7 @@
             "year": 2004,
             "color": "#E2583E",
             "pantone_value": "17-1456"
-        },
-        {
-            "id": 6,
-            "name": "blue turquoise",
-            "year": 2005,
-            "color": "#53B0AE",
-            "pantone_value": "15-5217"
         }
-    ],
-    "support": {
-        "url": "https://reqres.in/#support-heading",
-        "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+    ]
     }
 }
