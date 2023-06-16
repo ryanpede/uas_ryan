@@ -1,0 +1,16 @@
+{
+  "data" : [
+    {
+      "koleksi" : "chuck_70",
+      "sepatu" : {
+                    "Man": {
+                            "jenis_sepatu" : "Chuck Taylor 70s - High",
+                            "gambar" : {"gambar_1" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg", "gambar_2" : "https://www.converse.id/media/catalog/product/cache/1361a5fa2136490ab0bb297f837f6217/C/O/CON162050C-3.jpg"},
+                            "harga" : 999999,
+                            "harga_diskon" : 699999,
+                            "kode_produk" : "CTAS7-BLCK-HI"
+                           }
+                 }
+    }
+  ]
+}
