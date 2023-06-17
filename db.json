@@ -1,91 +1,34 @@
 {
-    "Chuck70": [
+    "chuck70": [
         {
             "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
+            "kategori" : "Chuck 70",
+            "path": "Chuck70",
+            "Image": "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg"
         }
     ],
-    "Women": [
+    "classic": [
         {
-           "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
+           "id": 2,
+           "kategori" : "Classic Chuck",
+           "path": "Classic",
+           "Image": "https://www.converse.id/media/wysiwyg/conid_trending_classic_chuck.jpg"
+        }
+    ],
+    "kids": [
         {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
+           "id": 3,
+           "kategori" : "Kids",
+           "path": "Kids",
+           "Image": "https://www.converse.id/media/wysiwyg/conid_trending_kids.jpg"
+        }
+    ],
+     "Elevation": [
         {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
-        },
-        {
-            "id": 1,
-            "name": "Converse X TURBODRK Chuck 70 Laceless",
-            "product_code": "C70HI-002",
-            "color": "Pink",
-            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg"
+           "id": 4,
+           "kategori" : "Elevation",
+           "path": "Elevation",
+           "Image": "https://www.converse.id/media/wysiwyg/conid_trending_elevation.jpg"
         }
     ]
-    
 }
