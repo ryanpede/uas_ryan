@@ -58,5 +58,56 @@
            "harga" : 799000,
            "detail" : "Sneaker Chuck Taylor All Star High Top ikonik menampilkan warisan kami dengan siluet klasik dan emblem bintang di tumit yang terkenal. Kanvas ringan dan tali pipih menjadi simbol dari desain khas kami. Diperbarui dengan sol luar yang awet. Sol dalam OrthoLite untuk bantalan menambah tingkat kenyamanan."
         }
+    ],
+    "Chuck70" : [
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : ,
+            "detail" : ""
+        }
     ]
 }
