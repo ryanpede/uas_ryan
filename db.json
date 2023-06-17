@@ -1,29 +1,23 @@
 {
-    "chuck70": [
+    "data": [
         {
             "id": 1,
             "kategori" : "Chuck 70",
             "path": "Chuck70",
             "Image": "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg"
-        }
-    ],
-    "classic": [
-        {
+        },
+           {
            "id": 2,
            "kategori" : "Classic Chuck",
            "path": "Classic",
            "Image": "https://www.converse.id/media/wysiwyg/conid_trending_classic_chuck.jpg"
-        }
-    ],
-    "kids": [
+        },
         {
            "id": 3,
            "kategori" : "Kids",
            "path": "Kids",
            "Image": "https://www.converse.id/media/wysiwyg/conid_trending_kids.jpg"
-        }
-    ],
-     "Elevation": [
+        },
         {
            "id": 4,
            "kategori" : "Elevation",
