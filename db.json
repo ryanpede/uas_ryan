@@ -109,5 +109,14 @@
             "harga" : 1799000,
             "detail" : "LIAR ALAMI Chuck 70 AT-CX menggabungkan kanvas tebal dengan warna-warna luar ruangan klasik serta CX untuk menjagamu tetap semangat berpetualang, petualang kreatif. Musim panas ini, Converse menggabungkan ide ini. Warna alami yang terbuat dari tumbuhan memenuhi sepatu dengan upper katun twill 8oz ini dengan gaya yang alami. Pijakan sol tengah memberi tampilan berbintik-bintik—cocok untuk berpetualang."
         }
+    ],
+    "Classic" : [
+        {
+            "nama" : "Converse CHUCK 70 HI Unisex Sneakers Shoes - Black",
+            "kode" : "C-001",
+            "Image" : "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg",
+            "harga" : 1099000,
+            "detail" : "Bergaya klasik, dan simbol ikonik dari Converse, Converse Chuck 70s High sudah dipakai sejak tahun 70, namun gaya style klasik sepatu ini bertahan hingga era ini." 
+        }
     ]
 }
