@@ -3,7 +3,7 @@
         {
             "id": 1,
             "kategori" : "Chuck 70",
-            "path": "Chuck70()",
+            "path": "Chuck70",
             "Image": "https://www.converse.id/media/wysiwyg/conid_trending_chuck70.jpg"
         },
            {
@@ -60,6 +60,48 @@
         }
     ],
     "Chuck70" : [
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
+          {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
+        {
+            "nama" : "",
+            "kode" : "C-005",
+            "Image" : "",
+            "harga" : 250000,
+            "detail" : ""
+        },
         {
             "nama" : "",
             "kode" : "C-005",
