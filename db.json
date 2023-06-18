@@ -27,32 +27,28 @@
     ],
      "produk_baru": [
         {
-            "id": 1,
-            "kategori" : "Converse CHUCK 70 HI Unisex Sneakers Shoes - Black",
+            "nama" : "Converse CHUCK 70 HI Unisex Sneakers Shoes - Black",
             "kode": "C-001",
             "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162050C-1.jpg",
             "harga" : 1099000,
             "detail" : "Bergaya klasik, dan simbol ikonik dari Converse, Converse Chuck 70s High sudah dipakai sejak tahun 70, namun gaya style klasik sepatu ini bertahan hingga era ini."
         },
            {
-           "id": 2,
-           "kategori" : "Chuck 70 - Low - Black",
+           "nama" : "Chuck 70 - Low - Black",
            "kode": "C-002",
            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CON162058C-1.jpg",
            "harga" : 999000, 
            "detail" : "Bantalannya lebih empuk, kanvasnya lebih kuat, sama serba gunanya. Chuck 70 dirancang berdasarkan desain orisinal tahun 1970-an, dengan material premium dan perhatian luar biasa terhadap detail. Kami menambahkan sol dalam ekstra empuk untuk penyangga dan stabilitas lengkung kaki, dan menggunakan jahitan lidah bersayap pada kanvas 12 ons agar tahan lama. Boleh dipakai sepanjang hari, setiap hari."
         },
         {
-           "id": 3,
-           "kategori" : "Chuck Taylor All Star - Dark Red",
+           "nama" : "Chuck Taylor All Star - Dark Red",
            "kode": "C-003",
            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/c/o/conm9613c-1_1_7.jpg",
            "harga" : 799000,    
            "detail" : "Sneaker Chuck Taylor All Star High Top ikonik menampilkan warisan kami dengan siluet klasik dan emblem bintang di tumit yang terkenal. Kanvas ringan dan tali pipih menjadi simbol dari desain khas kami. Diperbarui dengan sol luar yang awet. Sol dalam OrthoLite untuk bantalan menambah tingkat kenyamanan."
         },
         {
-           "id": 4,
-           "kategori" : "Chuck Taylor All Star - Bright Red",
+           "nama" : "Chuck Taylor All Star - Bright Red",
            "kode": "C-004",
            "Image": "https://www.converse.id/media/catalog/product/cache/e81e4f913a1cad058ef66fea8e95c839/C/O/CONM9621C-1.jpg",
            "harga" : 799000,
